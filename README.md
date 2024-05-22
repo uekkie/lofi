@@ -6,3 +6,5 @@ bunx shadcn-ui@latest init
 ```bash
 bun add react-player
 ```
+
+- use-local-storage-state

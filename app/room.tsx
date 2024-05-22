@@ -14,8 +14,7 @@ export default function Room() {
         <ReactPlayer
           width="100%"
           height="100%"
-          url=""
-          // url="https://www.youtube.com/watch?v=LXb3EKWsInQ"
+          url="https://www.youtube.com/watch?v=LXb3EKWsInQ"
         />
       </div>
       <Toolbar />
